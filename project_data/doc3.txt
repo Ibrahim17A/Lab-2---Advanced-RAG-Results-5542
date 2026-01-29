@@ -1,0 +1,23 @@
+Ibrahim Alborno
+Kansas City, MO 64110
+(816) 996-3460 | Ibrahimalborno17@gmail.com
+LinkedIn: Ibrahim Alborno - https://www.linkedin.com/in/ibrahim-alborno-2404a7293/
+
+
+SUMMARY
+Motivated Computer Science senior at the University of Missouri-Kansas City with a strong foundation in programming, database management, and data analysis. Experienced in web development, GUI applications, and AI-driven solutions for business automation. Passionate about leveraging data science and cybersecurity concepts to drive innovation and security in software development.
+EDUCATION
+University of Missouri-Kansas City
+Bachelor of Science in Computer Science (Expected May 2025)
+GPA: 3.4
+Relevant Coursework: Data Structures, Algorithms, Databases, Data Communications & Networking, Operating Systems
+
+Master of Science in Computer Science (Expected May 2026)
+Focus: Data Science & Cybersecurity
+TECHNICAL SKILLS
+- Programming Languages: Python, C++, JavaScript, HTML, PHP, SQL
+- Databases: MySQL, PostgreSQL, MongoDB
+- Frameworks & Tools: Bootstrap, Tkinter, Pandas, Matplotlib, MS Visual Studio
+- Cybersecurity & Networking: OSI Model, RAID, Encryption (Symmetric & Asymmetric)
+- Cloud Computing: Microsoft Azure Fundamentals (Certification in Progress)
+- AI & Automation: Voice-to-Voice AI, AI Messaging, Automated Tenant Communication

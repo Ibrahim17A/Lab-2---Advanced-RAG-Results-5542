@@ -1,0 +1,27 @@
+PROJECT EXPERIENCE
+Coding Camp Website (HTML, CSS, JavaScript, Bootstrap, PHP, SQL)
+• Built a responsive website for a coding camp, incorporating user registration and authentication.
+• Designed interactive elements, including image sliders, dropdown menus, and multimedia content.
+• Integrated a MySQL database to manage user registrations and program details.
+SOS Game with Tkinter (Python, GUI Development)
+• Developed a GUI-based SOS game using Tkinter in Python.
+• Implemented algorithms to detect and validate SOS sequences within the game board.
+• Optimized the game’s performance for accurate boundary reading and sequence detection.
+Multi-threading in Python (Operating Systems, Critical Sections, Bounded Buffer)
+• Developed and tested multithreading algorithms for process synchronization.
+• Implemented solutions for critical section handling and bounded buffer problems.
+CERTIFICATIONS & TRAINING
+- Microsoft Azure Fundamentals (In Progress)
+- IBM Data Science Professional Certificate (In Progress)
+EXTRACURRICULAR ACTIVITIES
+- UMKC Computer Science Club – Member, contributing to discussions on cybersecurity and AI.
+- Local Business Networking Events – Hosting and promoting REINVNT KC initiatives.
+- Cisco Packet Tracer Training – Hands-on experience with networking simulations.
+HONORS & AWARDS
+- Dean’s List (2023 – Present)
+- Recognized for Excellence in Software Development at UMKC Coding Competition (2024)
+ADDITIONAL INFORMATION
+- Passionate about Arsenal FC, believes they will win the 24-25 Premier League season!
+- Dedicated to continuous learning in cybersecurity, data science, and AI-driven business automation.
+
+References available upon request.
